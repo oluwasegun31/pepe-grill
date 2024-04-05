@@ -5,3 +5,11 @@ body, html{
     margin: 0 auto;
     background-color: #2E4038;
 }
+.pepeImg{
+    background-image: url("./assets/logo.jpeg");
+    background-color: rgba(0, 0, 0, 0.5);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    position: relative;
+    background-position: center;
+}
