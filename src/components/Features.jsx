@@ -45,6 +45,11 @@ export default function Features() {
             to our grilling.
           </p>
         </div>
+        <div className="bg-primary flex flex-col gap-4 justify-center items-center sm:h-[350px] h-[300px] p-4 text-center text-main hover:text-primary hover:bg-secondary transition-all duration-300 shadow-md">
+          <p className="sm:text-4xl text-3xl font-semibold">
+            Chess Board gamble game
+          </p>
+        </div>
       </section>
       <section className="w-full flex justify-center items-center my-12">
         <a href="">
@@ -63,7 +68,7 @@ export default function Features() {
           the latest grill gossip.
         </p>
       </section>
-      <section className="bg-secondary sm:p-4 p-2 md:rounded-3xl rounded-xl mt-12">
+      <section className="bg-secondary sm:p-4 p-2 md:rounded-3xl rounded-xl mt-12 mx-auto">
         <p className="text-main sm:text-xl text-lg leading-tight font-medium text-center">
           Pepe Grill" isn't just a token; it's a movement. A celebration of
           crypto culture, communal strength, and, of course, a good grill. So
